@@ -21,15 +21,15 @@ Objectives below are sentences/sentence fragments in bold
 - What is the $(document).ready() method of jQuery, and when does this callback run?
 - Comprehend traversal of the DOM tree, with parents, children, .find
   - Using selectors with jQuery, understanding what jQuery will actually select
-  - How to modify the DOM with jQuery
 
-**Use jQuery for DOM manipulation, e.g., .append, .remove, .clone, .html, .text**
-- How .clone can be used a simple templating system (a path towards handlebars.js)
-- **Differentiate between general methods/functions and the process of chaining.**
+- **Use jQuery for DOM manipulation, e.g., .append, .remove, .clone, .html, .text**
+  - How .clone can be used a simple templating system (a path towards handlebars.js)
+
+**Differentiate between general methods/functions and the process of chaining.**
   - Understand function chaining definition, reqs. on functions to allow chaining, how to chain jQ functions
 
 **Know these items before lab:**
-- 301 is a tough course. Learning to sandbox is hard if you aren’t used to it, but it is **absolutely essential**.
+- 301 is a tough course. Learning to sandbox is hard if you aren’t used to it, but it is *absolutely essential*.
 - How to work in pairs
 - How to fork, clone, and collaborate on the pair lab
 - jQuery cheatsheet, how to use $(‘selector’).someMethod(args..)
