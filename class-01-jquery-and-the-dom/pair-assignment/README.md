@@ -38,12 +38,12 @@ Here is a recommended workflow:
 Now find those `TODO` items in the code, and tackle one of them.
 
 1. Driver: In your terminal, change directory into the `pair-assignment` folder.
-1. Copy the starter code folder to a new folder named for your pair:
+1. Copy the starter code folder to a new folder named for your pair, e.g.:
  - `cp -r starter-code/ sabrina-chris/`
-1. Now cd into that new pairs name folder. This is where you will write code.
+1. cd to the new folder; this is where you will write code.
 1. Type `atom .` to open the new folder as a project in Atom.
 1. Use the Atom "Find in Project" feature to locate all the TODO items.
-1. Work through one or two TODO items, testing your code as you go, until you are happy with how it's working.
+1. Work through one or two TODO items, testing your code and doing git "**a-c-p**" as you go, until you are happy with how it's working.
 1. In your terminal type `git status` to view the files that you have changed. You should only see the files that you have worked on.
 1. Type `git add file1 file2` where file1, file2, etc. are the files that you have changed.
 1. Type `git status` to view the files that have been added to your commit. You should only see the files that you worked on.
@@ -55,7 +55,7 @@ Now find those `TODO` items in the code, and tackle one of them.
 ## Switch roles
 1. Driver: On GitHub, Add your navigator as a collaborator to your origin repo.
 
-1. Navigator: You can now clone the driver's fork, to your own local dev environment (if you haven't already, create a main "301" directory that will be the parent directory for your own forked repo, and a "navigator" directory created within this main "301" directory - **not your repo directory** - that will now contain your partner's repo, and future partner repos). Since you are now a collaborator, you can `pull` and `push` changes to and from `orgin`.
+1. Navigator: You can now clone the driver's fork, to your own local dev environment (if you haven't already, create a main "301" directory that will be the parent directory for your own forked repo, and a "navigator" directory created within this main "301" directory - **not your repo directory** - that will now contain your partner's repo, and future partner repos). Since you are now a collaborator, you can `pull` and `push` changes to and from `origin`.
 
 1. Switch roles: The new driver now opens the code in Atom (see above), and has hands on the keyboard to work through the next one or two TODO items.
 
