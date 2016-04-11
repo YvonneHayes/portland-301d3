@@ -10,6 +10,9 @@ Search through the code for:
 
  comments, where features should be. Replace the comments and any related pseudo-code with real, working code.
 
+### Extra Credit (+1 point; this offer expires at 9am Tue Apr 12)
+Modify blogArticles.js and change the date of the first article to 10/10/2000, then modify article.js to sort articles by date from newest to oldest, such that the newest article shows up first in the web page.
+
 Work in pairs. Take turns as "driver" and "navigator".
 
 ## Getting started with pair programming
