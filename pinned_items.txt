@@ -1,1 +1,0 @@
-jQuery cheat sheet: https://oscarotero.com/jquery
